@@ -1,5 +1,5 @@
 package gomoduletest
 
 func Hello(name string) (answer string) {
-	return "Hello " + name
+	return "Hello My Name Is " + name
 }
